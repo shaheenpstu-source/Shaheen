@@ -1,0 +1,6 @@
+{
+  "name": "Shaheen · Climate Adaptive & Regenerative Agriculture",
+  "description": "Personal website, technical articles, field notes, and thoughts on climate-adaptive agriculture, regenerative farming, and nature-based solutions (NbS) by Shaheen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
